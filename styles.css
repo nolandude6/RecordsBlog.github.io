@@ -7407,15 +7407,6 @@ textarea.form-control-lg {
   margin-left: 0 !important;
 }
 
-.metal {
-  display: flex;
-}
-
-.metalC {
-  flex: 50%;
-  padding: 10px;
-}
-
 .ms-1 {
   margin-left: 0.25rem !important;
 }
